@@ -6,7 +6,6 @@ let num4: number = -0.123;
 let num5: number = Infinity;
 let num6: number = -Infinity;
 let num7: number = NaN;
-let num11: number = 3344;
 
 // String
 let str1: string = "hello";
