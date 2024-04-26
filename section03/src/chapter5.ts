@@ -38,3 +38,8 @@ d.toFixed();
 
 d = "hello";
 d.toUpperCase();
+
+const num = 10;
+const str = "hello";
+
+let arr = [1, "hello"];
